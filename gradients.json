@@ -228,5 +228,10 @@
     "name":"Petrichor",
     "colour1":"#666600",
     "colour2":"#999966"
-  }
+  },
+  {
+    "name":"Biscotti",
+    "colour1":"#e2973f",
+    "colour2":"#ffc081"
+  }  
 ]
